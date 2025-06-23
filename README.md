@@ -1,2 +1,5 @@
 # Roadmap
-A Roadmap of the Computer Science and Engineering field organized into a tree structure where each subfield is explored using projects and documentation. 
+A platform where people can share pathways to proficiency in the topic of their choice. Learners can follow these pathways to learn new skills or expand existing ones. 
+
+
+
